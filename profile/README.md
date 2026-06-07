@@ -8,4 +8,4 @@ We run structured cohorts, open-source projects, mentorship programmes, and even
 
 ## Connect
 
-[Website](https://community.codetopia.org) · [Discord](https://discord.gg/nPmRWdTQAK) · [X](https://x.com/codetopiacomm) · [YouTube](https://youtube.com/@codetopiacommunity) · [LinkedIn](https://linkedin.com/company/codetopiacommunity) · [Instagram](https://instagram.com/codetopiacommunity) · [Threads](https://threads.com/codetopiacommunity) · [TikTok](https://tiktok.com/@codetopiacommunity) · [Bluesky](https://bsky.app/profile/codetopiacommunity.bsky.social) · [Mastodon](https://mastodon.social/@codetopiacommunity)
+[Website](https://community.codetopia.org) · [Discord](https://discord.gg/md6e2fmfEw) · [X](https://x.com/codetopiacomm) · [YouTube](https://youtube.com/@codetopiacommunity) · [LinkedIn](https://linkedin.com/company/codetopiacommunity) · [Instagram](https://instagram.com/codetopiacommunity) · [Threads](https://threads.com/codetopiacommunity) · [TikTok](https://tiktok.com/@codetopiacommunity) · [Bluesky](https://bsky.app/profile/codetopiacommunity.bsky.social) · [Mastodon](https://mastodon.social/@codetopiacommunity)
