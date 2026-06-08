@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../logo/Codetopia Community - Logo Variant 1.png">
+  <source media="(prefers-color-scheme: light)" srcset="../logo/Codetopia Community - Logo Variant 2.png">
+  <img src="../logo/Codetopia Community - Logo Variant 2.png" alt="Codetopia Community" width="400">
+</picture>
+
 # Codetopia Community
 
 The community initiative of [Codetopia](https://codetopia.org).
