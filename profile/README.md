@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../logo/Codetopia Community - Logo Variant 1.png">
-  <source media="(prefers-color-scheme: light)" srcset="../logo/Codetopia Community - Logo Variant 2.png">
-  <img src="../logo/Codetopia Community - Logo Variant 2.png" alt="Codetopia Community" width="400">
-</picture>
+![Codetopia Community](../logo/Codetopia%20Community%20-%20Logo%20Variant%201.png#gh-dark-mode-only)
+![Codetopia Community](../logo/Codetopia%20Community%20-%20Logo%20Variant%202.png#gh-light-mode-only)
 
 # Codetopia Community
 
