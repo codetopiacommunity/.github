@@ -5,9 +5,9 @@
 
 The community initiative of [Codetopia](https://codetopia.org).
 
-A mentorship-driven hub where technologists collaborate on real-world projects, advance from ideas to execution, and grow into leaders — based in Ghana, Africa.
+Hey — glad you found us.
 
-We run structured cohorts, open-source projects, mentorship programmes, and events. No passive learning. You come here to ship.
+Codetopia Community is where technologists in Africa (and beyond) come to build together. We run cohorts, open-source projects, mentorship, and events. The kind of place where you actually make friends and ship real things.
 
 ## Connect
 
