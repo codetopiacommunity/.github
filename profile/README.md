@@ -3,11 +3,13 @@
 
 # Codetopia Community
 
-The community initiative of [Codetopia](https://codetopia.org).
+Led by [Codetopia](https://codetopia.org), run by its members.
 
-Hey — glad you found us.
+Hey, glad you found us.
 
-Codetopia Community is where technologists in Africa (and beyond) come to build together. We run cohorts, open-source projects, mentorship, and events. The kind of place where you actually make friends and ship real things.
+Codetopia Community is an open community where people in tech do real work together: developers, designers, writers, organisers, and people who are none of those yet. Based in Ghana, open to the world.
+
+Members build our projects and open-source repos, run events, write, and review each other's work, and it all goes on a record that's theirs. Any organisation that wants to work with the people here is welcome. The kind of place where you actually make friends and ship real things.
 
 ## Connect
 
