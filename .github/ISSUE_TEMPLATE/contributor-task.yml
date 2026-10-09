@@ -1,0 +1,64 @@
+name: Task for contributors
+description: A piece of work a community member can pick up. Add the "good first issue" or "help wanted" label after creating it.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Writing this for a newcomer?** Assume they have never seen this project. Name the files, say what done looks like, and keep it to one small job.
+
+        After you create the issue, add one label:
+        - **good first issue**: small, clear, and runs without any secret keys or settings
+        - **help wanted**: anyone can do it, but it needs some experience
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs doing
+      description: One or two sentences. What is wrong, or what is needed?
+      placeholder: The footer links overlap on phones narrower than 380px.
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where to look
+      description: The files or pages involved.
+      placeholder: src/components/layout/Footer.tsx
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Done when
+      description: How the contributor and the reviewer will know it is finished.
+      placeholder: On a 360px wide screen, every footer link is readable and nothing overlaps.
+    validations:
+      required: true
+  - type: input
+    id: skills
+    attributes:
+      label: Skills needed
+      placeholder: Basic CSS and Tailwind
+    validations:
+      required: true
+  - type: textarea
+    id: run
+    attributes:
+      label: How to run the project
+      description: Link to the setup steps. Say if this task needs anything beyond them.
+      value: See CONTRIBUTING.md in this project. No secret keys or settings are needed for this task.
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Want to work on this?
+      description: Leave this as it is. It tells contributors how to take the task.
+      value: |
+        1. Comment "I'd like to take this up".
+        2. Wait until a maintainer assigns you. Then it is yours, and others can see it is taken.
+        3. Questions about the task? Ask here in the issue.
+        4. When you open your pull request, write "Fixes #" and this issue's number in its description.
+
+        One task at a time, please. If you go quiet for a week, a maintainer will check in. After two quiet weeks the task is freed for someone else, and you are welcome to pick it up again later.
+    validations:
+      required: true
